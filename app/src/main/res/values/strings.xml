@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado02</string>
+    <string name="examen_calificado_02">Examen Calificado 02</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="ocultar">Ocultar</string>
+    <string name="registro_de_pedidos">Registro de pedidos</string>
+    <string name="nombre_cliente">Nombre Cliente</string>
+    <string name="numero_cliente">Numero Cliente</string>
+    <string name="producto">Producto</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="direccion">Direccion</string>
+    <string name="registrar">Registrar</string>
+    <string name="pedidos">Pedidos</string>
+</resources>
